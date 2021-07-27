@@ -14,7 +14,7 @@ We set out to build a classification model that would classify the wine by good 
 # Trying out various classification models 
 
 various Supervised Learning models were tested on the dataset and Grid Search was used to find the best parameters for all of them. 
-The model that preformed best was Random Forest with an 89% accuracy 
+The model that preformed best was Random Forest with an 90% accuracy 
 
 ![graph of model accuracy](Readimages/1.jpg)
 
